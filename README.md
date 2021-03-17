@@ -2,7 +2,7 @@
 
 <!--
 **yunusfirat/yunusfirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://badges.pufler.dev/repos/yunusfirat
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Code Your Future
@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Yunusfirat44@gmail.com
 - ⚡ Fun fact: I have been studying alot nowadays not fun :)
 -->
-
-https://badges.pufler.dev/visits/{yunusfirat}/{pythia}
