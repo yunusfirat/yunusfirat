@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Yunusfirat44@gmail.com
 - ⚡ Fun fact: I have been studying alot nowadays not fun :)
 -->
+
+https://badges.pufler.dev/visits/{yunusfirat}/{pythia}
