@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yunusfirat](https://github.com/yunusfirat)
 
-- 💬 Ask me about **Html, css, javaScript, react**
+- 💬 Ask me about **Html, Css, javaScript, React**
 
 - 📫 How to reach me **yunusfirat44@gmail.com**
 
