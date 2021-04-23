@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusfirat" alt="yunusfirat" /></a> </p>
 
 - 🔭 I’m currently working on [hotel-react-CodeYourFuture](https://cyf-yunusfirat-hotel-react.netlify.app/)
-- 🔭 I’m currently working on [high-scores-react-CodeYourFuture](https://github.com/yunusfirat/high-scores-react)
+- 🔭 I’m currently working on [high-scores-react-CodeYourFuture](https://cyf-yunusfirat-scores.netlify.app/)
 
 
 - 🌱 I’m currently learning **Javascript and react**
