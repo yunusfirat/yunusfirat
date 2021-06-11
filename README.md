@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusfirat&label=Profile%20views&color=0e75b6&style=flat" alt="yunusfirat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusfirat" alt="yunusfirat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusfirat" alt="yunusfirat" /></a></p>
 
 - 🔭 I’m currently working on [Chat-server-Backend](https://yunus-chat-server.herokuapp.com/)
 🔭 I’m currently working on [Chat-server-frontEnd](https://cyf-yunusfirat-chatreact.netlify.app/)
