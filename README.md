@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on [Chat-server-Backend](https://yunus-chat-server.herokuapp.com/)
 🔭 I’m currently working on [Chat-server-frontEnd](https://cyf-yunusfirat-chatreact.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript and react**
+- 🌱 I’m currently learning **Javascript and react, nodejs, sql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yunusfirat](https://github.com/yunusfirat)
 
-- 💬 Ask me about **Html, Css, javaScript, React**
+- 💬 Ask me about **Html, Css, javaScript, React, Node.Js, Sql**
 
 - 📫 How to reach me **yunusfirat44@gmail.com**
 
