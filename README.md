@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusfirat" alt="yunusfirat" /></a></p>
 
-- 🔭 I’m currently working on [Full-Stack web application](https://github.com/yunusfirat/Full-Stack-Project-Assessment)
+- 🔭 I’m currently working on [Full-Stack web application](https://sora-air-all-stars.herokuapp.com/)
 
 
-- 🌱 I’m currently learning **Javascript and react, nodejs, sql**
+- 🌱 I’m currently learning **Javascript and react, nodejs, postgresql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yunusfirat](https://github.com/yunusfirat)
 
